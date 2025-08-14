@@ -1,8 +1,8 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "MARY-WA",
   "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
   "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
-  "keywords": ["SUBZERO-MD"],
+  "keywords": ["MARY-WA"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
